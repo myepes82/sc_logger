@@ -1,0 +1,26 @@
+{
+  "name": "sc_logger",
+  "version": "1.0.0",
+  "description": "Simple logger system",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myepes82/sc_logger.git"
+  },
+  "keywords": [
+    "shared"
+  ],
+  "author": "myepes82 - GitHub",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/myepes82/sc_logger/issues"
+  },
+  "homepage": "https://github.com/myepes82/sc_logger#readme",
+  "devDependencies": {
+    "eslint": "^8.55.0"
+  }
+}
