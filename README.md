@@ -1,4 +1,4 @@
-# SCL Logger for Node.js
+# SC_Logger (Simple Console Logger)  for Node.js
 
 This lightweight Node.js logging module uses ANSI escape sequences to provide colored and formatted output in the console. It supports different log levels (WARN, ERROR, DEBUG, INFO) and allows you to easily customize the appearance of log messages.
 
