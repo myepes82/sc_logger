@@ -1,0 +1,33 @@
+{
+  "compilerOptions": {
+    /* Projects */
+    "composite": true,
+    "tsBuildInfoFile": "./lib/.tsbuildinfo",
+    /* Language and Environment */
+    "target": "es2018", // Actualizado a ES2018
+    "module": "es6", // Cambiado a módulos ES6
+    "strict": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    /* Modules */
+    "moduleResolution": "node", // Se establece la resolución de módulos a 'node'
+    "baseUrl": "./",
+    "paths": {},
+    "typeRoots": [
+      "node_modules/@types"
+    ],
+    /* Emit */
+    "declaration": true,
+    "declarationMap": true,
+    "sourceMap": true,
+    "outDir": "./lib", // Carpeta de salida para los archivos generados
+    /* Type Checking */
+    "skipLibCheck": true,
+  },
+  /* Exclusión de Archivos */
+  "exclude": [
+    "**.js",
+    "**.d.ts",
+    "lib"
+  ]
+}

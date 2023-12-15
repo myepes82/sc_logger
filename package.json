@@ -1,8 +1,8 @@
 {
   "name": "sc_logger",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Simple logger system",
-  "main": "index.js",
+  "main": "./lib/index.js",
   "type": "module",
   "scripts": {
     "test": "'"
@@ -21,6 +21,8 @@
   },
   "homepage": "https://github.com/myepes82/sc_logger#readme",
   "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^6.14.0",
+    "@typescript-eslint/parser": "^6.14.0",
     "eslint": "^8.55.0"
   }
 }

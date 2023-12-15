@@ -1,3 +1,15 @@
+# Archivos y carpetas generados durante el desarrollo
+node_modules/
+lib/
+lib
+.lib
+./lib
+/dist
+/lib
+*.log
+*.tsbuildinfo
+
+
 # Logs
 logs
 *.log
@@ -6,6 +18,7 @@ yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
 .pnpm-debug.log*
+
 
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
