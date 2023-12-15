@@ -4,6 +4,10 @@ dist/
 *.log
 *.tsbuildinfo
 
+tsconfig.json
+.eslintrc.json
+README.md
+
 # Archivos específicos del entorno de desarrollo
 .ts/
 .vscode/
