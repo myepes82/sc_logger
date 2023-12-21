@@ -2,7 +2,7 @@
   "compilerOptions": {
     "composite": true,
     "tsBuildInfoFile": "./lib/.tsbuildinfo",
-    "target": "ES2016",
+    "target": "ES6",
     "module": "CommonJS",
     "strict": true,
     "esModuleInterop": true,
