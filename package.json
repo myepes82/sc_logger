@@ -1,5 +1,5 @@
 {
-  "name": "sc_logger",
+  "name": "scc_logger",
   "version": "1.0.3",
   "description": "Simple logger system",
   "main": "./lib/index.js",

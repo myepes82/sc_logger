@@ -3,7 +3,7 @@
     "composite": true,
     "tsBuildInfoFile": "./lib/.tsbuildinfo",
     "target": "ES2016",
-    "module": "es6",
+    "module": "CommonJS",
     "strict": true,
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,
